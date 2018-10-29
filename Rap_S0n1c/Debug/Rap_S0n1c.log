@@ -1,0 +1,12 @@
+﻿  rap_s0n1c.cpp
+c:\users\xsf1re\desktop\rap_s0n1c\rap_s0n1c\rap_s0n1c.cpp(159): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+c:\users\xsf1re\desktop\rap_s0n1c\rap_s0n1c\rap_s0n1c.cpp(428): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\xsf1re\desktop\rap_s0n1c\rap_s0n1c\rap_s0n1c.cpp(387): warning C4101: 'IsPlaying' :참조되지 않은 지역 변수입니다.
+c:\users\xsf1re\desktop\rap_s0n1c\rap_s0n1c\rap_s0n1c.cpp(425): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+c:\users\xsf1re\desktop\rap_s0n1c\rap_s0n1c\rap_s0n1c.cpp(424): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+c:\users\xsf1re\desktop\rap_s0n1c\rap_s0n1c\rap_s0n1c.cpp(937): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+c:\users\xsf1re\desktop\rap_s0n1c\rap_s0n1c\rap_s0n1c.cpp(905): warning C4101: 'IsPlaying' :참조되지 않은 지역 변수입니다.
+c:\users\xsf1re\desktop\rap_s0n1c\rap_s0n1c\rap_s0n1c.cpp(1509): warning C4101: 'c' :참조되지 않은 지역 변수입니다.
+c:\users\xsf1re\desktop\rap_s0n1c\rap_s0n1c\rap_s0n1c.cpp(373): warning C4715: 'draw_credit': 모든 제어 경로에서 값을 반환하지는 않습니다.
+c:\users\xsf1re\desktop\rap_s0n1c\rap_s0n1c\rap_s0n1c.cpp(1141): warning C4715: 'draw_game_screen': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  Rap_S0n1c.vcxproj -> C:\Users\XsF1re\Desktop\Rap_S0n1c\Debug\Rap_S0n1c.exe
